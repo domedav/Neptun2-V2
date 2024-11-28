@@ -11,3 +11,7 @@ With this, you will be able to use all pro features of the app, for free in the 
 ---
 ### When will it release?
 ***Probably around in the middle of march...***
+
+
+### Looking for this app previous generation?
+[Click here](https://github.com/domedav/Neptun-2) to view it.
