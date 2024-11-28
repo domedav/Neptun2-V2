@@ -1,4 +1,4 @@
-package com.domedav.neptunv2.neptun2;
+package com.domedav.neptunv2;
 
 import io.flutter.embedding.android.FlutterActivity;
 
