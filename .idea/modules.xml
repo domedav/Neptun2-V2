@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/neptun2/neptun2.iml" filepath="$PROJECT_DIR$/neptun2/neptun2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neptun2/android/neptun2_android.iml" filepath="$PROJECT_DIR$/neptun2/android/neptun2_android.iml" />
+    </modules>
+  </component>
+</project>
