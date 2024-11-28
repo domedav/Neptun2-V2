@@ -9,5 +9,5 @@ But if you want to try it out, consider getting the [neptun2 development support
 With this, you will be able to use all pro features of the app, for free in the future, as well as get the latest beta builds.
 
 ---
-### Mikor lesz kész?
-***Várhatóan március vége felé lesz publikusan elérhető az app...***
+### When will it release?
+***Probably around in the middle of march...***
