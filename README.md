@@ -10,7 +10,7 @@ With this, you will be able to use all pro features of the app, for free in the 
 
 ---
 ### When will it release?
-***Probably around in the middle of march...***
+***Good question...***
 
 
 ### Looking for this app previous generation?
